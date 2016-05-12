@@ -2,7 +2,7 @@
 Graphics Homework 08: mdl-animation
 
 # Running
-Use `make` to run DW's script_3d
+Use `make` to run DW's animtest.mdl
 
 Use `make dillon` to run Dillon's script
 
